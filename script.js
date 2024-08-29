@@ -49,3 +49,16 @@ document.addEventListener('DOMContentLoaded', function () {
 
     typeWriter();
 });
+
+document.addEventListener('DOMContentLoaded', function() {
+    const heroImages = document.querySelectorAll('.hero-img');
+    let currentIndex = 0;
+
+    function switchImage() {
+        heroImages[currentIndex].classList.remove('active');
+        currentIndex = (currentIndex + 1) % heroImages.length;
+        heroImages[currentIndex].classList.add('active');
+    }
+
+    setInterval(switchImage, 5000);
+});
