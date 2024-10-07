@@ -23,7 +23,7 @@ function updateIcon(theme) {
 // Typing effect
 document.addEventListener('DOMContentLoaded', function () {
     const element = document.querySelector('.text-lowercase');
-    const words = ["business", "project", "website", "app", "utility", "API", "concept", "solution", "resource", "tool", "vision", "idea"];
+    const words = ["business", "community", "project", "website", "app", "utility", "API", "concept", "solution", "resource", "tool", "vision", "idea"];
     let index = 0;
     let charIndex = 0;
     const typingSpeed = 150;
