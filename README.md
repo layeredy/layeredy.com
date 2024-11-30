@@ -1,7 +1,7 @@
 [![layeredy](https://r2.layeredy.com/wordmark.png)](https://layeredy.com)
 
 # Website for Layeredy
-This is the website for [Layeredy](https://layeredy.com), the company behind [Encoded](https://encoded.sh), [UptimeMatrix](https://uptimematrix.com), [Multiple open source projects](https://github.com/layeredy), [Average](https://averagebot.com), and [Owehost](https://owehost.com)
+This is the website for [Layeredy](https://layeredy.com), the company behind [UptimeMatrix](https://uptimematrix.com) and [Multiple open source projects](https://github.com/layeredy).
 
 Feel free to use this site as a template or to suggest improvements. 
 
